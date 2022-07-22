@@ -16,7 +16,7 @@ The page will reload when you make changes.\
 You may also see any lint errors in the console.
 
 ### 'Demo'
-<video src='your URL here' width=180/>
+<video src='video2.mov' width=180/>
 
 ### `npm test`
 
